@@ -1,0 +1,31 @@
+---
+galaxy_info:
+  author: Thomas CHALMEL
+  description: Manage k8s infrastructure
+  company: CLMA Consulting
+
+  license: MIT
+
+  min_ansible_version: "2.16"
+  standalone: false
+  #
+  # platforms:
+  # - name: Fedora
+  #   versions:
+  #   - all
+  #   - 25
+  # - name: SomePlatform
+  #   versions:
+  #   - all
+  #   - 1.0
+  #   - 7
+  #   - 99.99
+
+  galaxy_tags:
+    - k8s
+    - linus
+    - infrastructure
+
+dependencies: []
+
+...
