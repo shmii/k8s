@@ -1,0 +1,3 @@
+[submodule "roles/k8s_common"]
+	path = roles/k8s_common
+	url = git@github.com:shmii/k8s_common.git
